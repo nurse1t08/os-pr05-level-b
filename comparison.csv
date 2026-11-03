@@ -1,0 +1,16 @@
+dataset,algorithm,waiting,turnaround,response,cpu_pct,switches
+set1.txt,fcfs,8.75,15.25,8.75,100.0,3
+set1.txt,sjf,7.75,14.25,7.75,100.0,3
+set1.txt,srtf,6.5,13.0,4.25,100.0,4
+set1.txt,priority,10.75,17.25,8.5,100.0,4
+set1.txt,rr,13.5,20.0,3.0,100.0,9
+set2.txt,fcfs,146.3,165.05,146.3,100.0,19
+set2.txt,sjf,132.8,151.55,132.8,100.0,19
+set2.txt,srtf,132.8,151.55,132.8,100.0,19
+set2.txt,priority,150.25,169.0,144.4,100.0,21
+set2.txt,rr,259.2,277.95,26.95,100.0,130
+set3.txt,fcfs,62.25,68.0,62.25,100.0,19
+set3.txt,sjf,58.0,63.75,58.0,100.0,19
+set3.txt,srtf,13.95,19.7,11.0,100.0,22
+set3.txt,priority,39.35,45.1,35.9,100.0,23
+set3.txt,rr,26.85,32.6,17.05,100.0,30
